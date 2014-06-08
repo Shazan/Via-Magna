@@ -1,2 +1,137 @@
 .gradle
 build/
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Viajes La Brújula</title>
+<style type="text/css">
+
+body,td,th {
+	font-family: "Lucida Calligraphy";
+	font-size: 16px;
+	color: #666;
+	text-align: left;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	word-spacing: normal;
+	line-height: normal;
+}
+body {
+	margin: 0px;
+}
+Cabeza {
+	font: normal 60px "Lucida Calligraphy";
+	color: #666;
+}
+
+.auto-style2 {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-family: "Lucida Calligraphy";
+	font-size: 16px;
+	text-align: center;
+}
+.auto-style5 {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-family: "Lucida Calligraphy";
+	font-size: 16px;
+	text-align: center;
+	vertical-align: middle;
+}
+.auto-style6 {
+	text-align: left;
+	font-family: "Lucida Calligraphy";
+	font-size: 60px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.auto-style7 {
+	vertical-align: middle;
+	font-family: "Lucida Calligraphy";
+	font-size: 18px;
+	text-align: left;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+.auto-style8 {
+	border-width: 0;
+}
+.auto-style11 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.auto-style15 {
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-family: "Lucida Calligraphy";
+	font-size: small;
+	text-align: center;
+}
+
+.auto-style16 {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
+}
+
+</style>
+</head>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51383811-1', 'viajeslabrujula.eu');
+  ga('send', 'pageview');
+
+</script>
+
+<body text="#666666" style="background-image: url('imagenes/Fondo-web-cielo-19802.jpg'); color: #233E5F;">
+<table align="center" cellpadding="5" cellspacing="5" id="Cabeza" class="auto-style6" style="height: 150; width: 1050;">
+  <tr>
+      <td align="center" class="auto-style7" style="width: 150">
+	  <img height="100" src="imagenes/banner_superior.png" width="587"></td>
+    <td align="left" valign="top" class="auto-style5" style="width: 351px">
+	
+	
+	
+	<img height="100" src="imagenes/Banderas/Band_Web_Brujula_2.png" width="347"></td>
+  </tr>
+</table>
+<table width="400" align="center" cellpadding="2" cellspacing="2" id="Cuerpo" class="auto-style8">
+  <tr>
+    <td>
+	<p class="auto-style15">&nbsp;<strong>La Brújula</strong>.Agencia turística. Hoteles, 
+	traslados y servicios para el deporte, la empresa e instituciones.</p>
+	<p class="auto-style15">Reservas desde ordenador, tablet o móvil. 
+	Desarrollada aplicación tecnológica para móviles y tabletas.
+	<a href="hotelesyvuelos.apk"><strong>Descargar apps.</strong></a></p>
+	<p class="auto-style2" style="height: 784px">
+				<iframe src='http://booking.negoyocio.com' name="I1" marginwidth='1' marginheight='1' frameborder='0' class="auto-style6" id='I1' style="width: 1040px; height: 780px;" title="Sistema de reservas NEGO&amp;OCIO 01" "target=_blank"></iframe>		      </p>
+	<p class="auto-style2">
+	
+	<iframe frameborder="0" scrolling="auto" src="http://booking.negoyocio.com/public/widget/30554/377291993" width="1000" height="600"><a href="http://booking.negoyocio.com/public/widget/30554/377291993">Hoteles por destino</a></iframe>
+	
+	</p>
+	<p class="auto-style2">&nbsp;
+	
+	</p>
+	  </td>
+  </tr>
+</table>
+<table width="1050" align="center" cellpadding="5" cellspacing="5" id="Pie" class="auto-style8" style="width: 1050px">
+  <tr>
+    <td valign="top" class="auto-style11" style="height: 33px; width: 348px">Copiright 2012-2015. 
+	Viajes La Brújula</td>
+    <td valign="top" class="auto-style16" style="height: 33; width: 348">
+	<img height="35" src="imagenes/Banderas/credit-card-logos%20abbey%20copy.png" width="158"></td>
+    <td valign="top" class="auto-style11" style="height: 33px; width: 349px">
+	Contacta: reservas@viajeslabruluja.eu</td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
